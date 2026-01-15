@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="reni">#000000</color>
+    <color name="result">#d8d8d8</color>
+    <color name="result_blue">#66cccc</color>
+    <color name="result_green">#33ff99</color>
+    <color name="result_red">#df3a01</color>
+    <color name="result_lightred">#f5d0a9</color>
+    <color name="progressStart">#66ffff</color>
+    <color name="progressEnd">#339999</color>
+</resources>

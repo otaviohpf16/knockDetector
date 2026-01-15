@@ -1,0 +1,99 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: nvvZV1+d/+gNVgACToip08VGr6o=
+
+Name: res/drawable/ken.bmp
+SHA1-Digest: +tXmeoMs46kV88KQl2kiBucrUDg=
+
+Name: res/drawable-mdpi/ic_action_search.png
+SHA1-Digest: XjltJdEB3tvakTn9CN7KwdaNT68=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: e3ykUboMs5kqeFfXweQuMA0rEiE=
+
+Name: res/drawable/logo.png
+SHA1-Digest: izLfyEXXfq7EKB77ezJdYZVvAjA=
+
+Name: res/raw/pb.ogg
+SHA1-Digest: qf10tuGgy2cYJzto+x2KqtNLpb0=
+
+Name: resources.arsc
+SHA1-Digest: zgocxSnQy7LDehoQgecBMqAp2OY=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: HOUO0Bvju/2sYBuwfKlTK+uinxU=
+
+Name: res/drawable/kt2.bmp
+SHA1-Digest: iKUKS7zZdcJLFYfJkjac+0XPGxU=
+
+Name: res/layout/images.xml
+SHA1-Digest: P3XdyLQL+W8dYSn79FgFB8mGxuw=
+
+Name: AndroidManifest.xml
+SHA1-Digest: sZ/xMLY+4jRfG/PkcHdnAS7eyiQ=
+
+Name: res/drawable/ki3.bmp
+SHA1-Digest: tfQ3GxQhbNQvvf34XDKL4wrLrQY=
+
+Name: res/drawable/imageback.xml
+SHA1-Digest: KOptwKvcJXQg7dJXYugEnGuPbbg=
+
+Name: res/drawable/ki4.bmp
+SHA1-Digest: YTKpl+NHPrMS6RLlx/gDnWMHUFc=
+
+Name: res/menu/activity_kdmain.xml
+SHA1-Digest: 8gGo7HlncTeGn1F6TLrGPC0uy7E=
+
+Name: res/drawable/kt4.bmp
+SHA1-Digest: EMcEliABaKy+LPcaJmihddvK+j0=
+
+Name: res/layout/popup.xml
+SHA1-Digest: 7zO4Ff7taq13Z43cyUGpNQnUGus=
+
+Name: res/drawable/progressback.xml
+SHA1-Digest: 2qwuU3GAuK/C0u+ZVultaMXstS4=
+
+Name: res/drawable/kt1.bmp
+SHA1-Digest: 55OiTMmYVXrhf6ct+TW2BIIvoLE=
+
+Name: res/drawable/ki1.bmp
+SHA1-Digest: Gmha/th+UdKwVHe4Lvh3KD4oGRA=
+
+Name: res/drawable/kep.bmp
+SHA1-Digest: 9uuh8CW01f/P0i1rDFYRGP61Bag=
+
+Name: classes.dex
+SHA1-Digest: u7IKlGbElT/soYwraYt2WjFJwnE=
+
+Name: res/drawable/ki2.bmp
+SHA1-Digest: HLujCo8CT/D/LOHNuo6Itf7Dpuc=
+
+Name: res/layout/main.xml
+SHA1-Digest: 78N0pFQiYZ4fhpD60drcrwTs2y8=
+
+Name: res/drawable/ke.bmp
+SHA1-Digest: dlC9IJeKOWJYJbLHe5/4XAhBogw=
+
+Name: res/drawable/button_selector.xml
+SHA1-Digest: WGjj3ITIblcjmGhC9yX3eZbhS6k=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: hCru7vLU+va+mjV3HodgDyQx/Dk=
+
+Name: res/drawable/kt3.bmp
+SHA1-Digest: huja/K5BkDNA7A6FZymqR3pK3qU=
+
+Name: res/drawable/back.xml
+SHA1-Digest: 1sdpQxS3wXSW54S0AZpNYT/eDbw=
+
+Name: res/drawable/mainback.xml
+SHA1-Digest: zUN5GXRczMSAoBD3NVdkWRIV4mc=
+
+Name: res/drawable-hdpi/ic_action_search.png
+SHA1-Digest: rOWnNxWCWKwkicf+FpYGMg1fX2Y=
+
+Name: res/drawable-xhdpi/ic_action_search.png
+SHA1-Digest: WzSVDDIHZpn0cFeuxgKRJete4TU=
+
