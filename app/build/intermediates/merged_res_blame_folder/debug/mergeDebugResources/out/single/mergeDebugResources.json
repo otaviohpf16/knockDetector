@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "com.nosoftskills.kd.app-debug-32:/drawable_ki1.bmp.flat",
+        "source": "com.nosoftskills.kd.app-main-34:/drawable/ki1.bmp"
+    },
+    {
+        "merged": "com.nosoftskills.kd.app-debug-32:/drawable_button_selector.xml.flat",
+        "source": "com.nosoftskills.kd.app-main-34:/drawable/button_selector.xml"
+    },
+    {
+        "merged": "com.nosoftskills.kd.app-debug-32:/drawable_ki3.bmp.flat",
+        "source": "com.nosoftskills.kd.app-main-34:/drawable/ki3.bmp"
+    },
+    {
+        "merged": "com.nosoftskills.kd.app-debug-32:/drawable_imageback.xml.flat",
+        "source": "com.nosoftskills.kd.app-main-34:/drawable/imageback.xml"
+    },
+    {
+        "merged": "com.nosoftskills.kd.app-debug-32:/drawable_ken.bmp.flat",
+        "source": "com.nosoftskills.kd.app-main-34:/drawable/ken.bmp"
+    },
+    {
+        "merged": "com.nosoftskills.kd.app-debug-32:/drawable_logo.png.flat",
+        "source": "com.nosoftskills.kd.app-main-34:/drawable/logo.png"
+    },
+    {
+        "merged": "com.nosoftskills.kd.app-debug-32:/drawable_kt1.bmp.flat",
+        "source": "com.nosoftskills.kd.app-main-34:/drawable/kt1.bmp"
+    },
+    {
+        "merged": "com.nosoftskills.kd.app-debug-32:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "com.nosoftskills.kd.app-main-34:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nosoftskills.kd.app-debug-32:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "com.nosoftskills.kd.app-main-34:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nosoftskills.kd.app-debug-32:/drawable_kt2.bmp.flat",
+        "source": "com.nosoftskills.kd.app-main-34:/drawable/kt2.bmp"
+    },
+    {
+        "merged": "com.nosoftskills.kd.app-debug-32:/raw_pb.ogg.flat",
+        "source": "com.nosoftskills.kd.app-main-34:/raw/pb.ogg"
+    },
+    {
+        "merged": "com.nosoftskills.kd.app-debug-32:/layout_main.xml.flat",
+        "source": "com.nosoftskills.kd.app-main-34:/layout/main.xml"
+    },
+    {
+        "merged": "com.nosoftskills.kd.app-debug-32:/drawable_kt4.bmp.flat",
+        "source": "com.nosoftskills.kd.app-main-34:/drawable/kt4.bmp"
+    },
+    {
+        "merged": "com.nosoftskills.kd.app-debug-32:/menu_activity_kdmain.xml.flat",
+        "source": "com.nosoftskills.kd.app-main-34:/menu/activity_kdmain.xml"
+    },
+    {
+        "merged": "com.nosoftskills.kd.app-debug-32:/drawable_ki2.bmp.flat",
+        "source": "com.nosoftskills.kd.app-main-34:/drawable/ki2.bmp"
+    },
+    {
+        "merged": "com.nosoftskills.kd.app-debug-32:/drawable-xhdpi_ic_action_search.png.flat",
+        "source": "com.nosoftskills.kd.app-main-34:/drawable-xhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "com.nosoftskills.kd.app-debug-32:/drawable-mdpi_ic_action_search.png.flat",
+        "source": "com.nosoftskills.kd.app-main-34:/drawable-mdpi/ic_action_search.png"
+    },
+    {
+        "merged": "com.nosoftskills.kd.app-debug-32:/drawable_mainback.xml.flat",
+        "source": "com.nosoftskills.kd.app-main-34:/drawable/mainback.xml"
+    },
+    {
+        "merged": "com.nosoftskills.kd.app-debug-32:/drawable_ke.bmp.flat",
+        "source": "com.nosoftskills.kd.app-main-34:/drawable/ke.bmp"
+    },
+    {
+        "merged": "com.nosoftskills.kd.app-debug-32:/drawable_progressback.xml.flat",
+        "source": "com.nosoftskills.kd.app-main-34:/drawable/progressback.xml"
+    },
+    {
+        "merged": "com.nosoftskills.kd.app-debug-32:/drawable_ki4.bmp.flat",
+        "source": "com.nosoftskills.kd.app-main-34:/drawable/ki4.bmp"
+    },
+    {
+        "merged": "com.nosoftskills.kd.app-debug-32:/drawable_back.xml.flat",
+        "source": "com.nosoftskills.kd.app-main-34:/drawable/back.xml"
+    },
+    {
+        "merged": "com.nosoftskills.kd.app-debug-32:/layout_popup.xml.flat",
+        "source": "com.nosoftskills.kd.app-main-34:/layout/popup.xml"
+    },
+    {
+        "merged": "com.nosoftskills.kd.app-debug-32:/drawable_kt3.bmp.flat",
+        "source": "com.nosoftskills.kd.app-main-34:/drawable/kt3.bmp"
+    },
+    {
+        "merged": "com.nosoftskills.kd.app-debug-32:/layout_images.xml.flat",
+        "source": "com.nosoftskills.kd.app-main-34:/layout/images.xml"
+    },
+    {
+        "merged": "com.nosoftskills.kd.app-debug-32:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "com.nosoftskills.kd.app-main-34:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nosoftskills.kd.app-debug-32:/drawable-ldpi_ic_launcher.png.flat",
+        "source": "com.nosoftskills.kd.app-main-34:/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nosoftskills.kd.app-debug-32:/drawable-hdpi_ic_action_search.png.flat",
+        "source": "com.nosoftskills.kd.app-main-34:/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "com.nosoftskills.kd.app-debug-32:/drawable_kep.bmp.flat",
+        "source": "com.nosoftskills.kd.app-main-34:/drawable/kep.bmp"
+    }
+]

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/mainRelative" android:background="@color/reni" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ImageView android:id="@+id/iv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ki1" android:scaleType="fitStart" android:adjustViewBounds="true" android:layout_alignParentTop="true" android:layout_centerHorizontal="true"/>
+    <TextView android:textAppearance="?android:attr/textAppearanceLarge" android:id="@+id/resultsView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_marginTop="5dp" android:text="Results:" android:maxLines="4" android:lines="4" android:layout_below="@+id/iv" android:layout_alignParentLeft="true"/>
+    <Button android:id="@+id/resultsBtn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="5dp" android:text="More info" android:layout_toRightOf="@+id/resultsView" android:layout_below="@+id/iv"/>
+    <Button android:id="@+id/restartBtn" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="30dp" android:layout_marginLeft="30dp" android:text="Restart" android:layout_alignParentTop="true" android:layout_centerHorizontal="true"/>
+</RelativeLayout>

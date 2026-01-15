@@ -14,16 +14,6 @@ android {
         versionName "1.1.0"
     }
 
-    // Mapeia suas pastas antigas para o Gradle (Caso você NÃO queira mover os arquivos)
-    sourceSets {
-        main {
-            manifest.srcFile 'resources/AndroidManifest.xml'
-            java.srcDirs = ['sources']
-            res.srcDirs = ['resources/res']
-            aidl.srcDirs = ['sources'] // Se houver .aidl lá
-        }
-    }
-
     buildTypes {
         release {
             minifyEnabled false
