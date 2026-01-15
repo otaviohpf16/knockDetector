@@ -1,17 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="2" android:versionName="1.0.1" package="com.nosoftskills.kd">
-    <uses-sdk android:minSdkVersion="7"/>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.nosoftskills.kd"
+    android:versionCode="3"
+    android:versionName="1.1.0">
+
+    <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="35"/>
+
     <uses-permission android:name="android.permission.WAKE_LOCK"/>
-    <application android:theme="@style/AppTheme" android:label="@string/app_name" android:icon="@drawable/logo">
-        <activity android:label="@string/title_activity_kdmain" android:name=".PluginActivity" android:exported="true" android:finishOnTaskLaunch="false" android:clearTaskOnLaunch="true" android:alwaysRetainTaskState="true">
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <queries>
+        <package android:name="org.prowl.torque" />
+        <intent>
+            <action android:name="org.prowl.torque.remote.ITorqueService" />
+        </intent>
+    </queries>
+
+    <application
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+        android:label="@string/app_name"
+        android:icon="@drawable/logo"
+        android:allowBackup="true">
+        
+        <activity
+            android:name=".PluginActivity"
+            android:label="@string/title_activity_kdmain"
+            android:exported="true"
+            android:configChanges="orientation|screenSize">
             <intent-filter>
                 <action android:name="org.prowl.torque.ACTIVITY_PLUGIN"/>
-            </intent-filter>
-            <intent-filter>
                 <action android:name="org.prowl.torque.PID_PLUGIN"/>
-            </intent-filter>
-            <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
     </application>
